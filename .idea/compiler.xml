@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eduonline-bean" />
+        <module name="eduonline-common-util" />
+        <module name="eduonline-commonutil" />
+        <module name="eduonline-interface" />
+        <module name="eduonline-manage-service" />
+        <module name="eduonline-manage-web" />
+        <module name="eduonline-service-util" />
+        <module name="eduonline-usermanage" />
+        <module name="eduonline-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eduonline-bean" target="1.8" />
+      <module name="eduonline-common-util" target="1.8" />
+      <module name="eduonline-commonutil" target="1.8" />
+      <module name="eduonline-interface" target="1.8" />
+      <module name="eduonline-manage-service" target="1.8" />
+      <module name="eduonline-manage-web" target="1.8" />
+      <module name="eduonline-parent" target="1.8" />
+      <module name="eduonline-service-util" target="1.8" />
+      <module name="eduonline-usermanage" target="1.8" />
+      <module name="eduonline-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

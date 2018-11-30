@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eduonline-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-usermanage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduonline-web-util" charset="UTF-8" />
+  </component>
+</project>

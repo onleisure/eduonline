@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eduonline-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/eduonline-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/eduonline-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/eduonline-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/eduonline-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/eduonline-manage-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
