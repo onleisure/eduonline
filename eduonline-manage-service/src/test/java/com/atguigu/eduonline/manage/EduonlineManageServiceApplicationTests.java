@@ -12,6 +12,7 @@ public class EduonlineManageServiceApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("are you ok?!");
-	}
+        System.out.println("i am ok!");
+    }
 
 }
