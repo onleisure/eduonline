@@ -7,9 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/eduonline-common-util/eduonline-common-util.iml" filepath="$PROJECT_DIR$/eduonline-common-util/eduonline-common-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-interface/eduonline-interface.iml" filepath="$PROJECT_DIR$/eduonline-interface/eduonline-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-manage-service/eduonline-manage-service.iml" filepath="$PROJECT_DIR$/eduonline-manage-service/eduonline-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduonline-manage-service/eduonline-manage-service.iml" filepath="$PROJECT_DIR$/eduonline-manage-service/eduonline-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduonline-manage-web/eduonline-manage-web.iml" filepath="$PROJECT_DIR$/eduonline-manage-web/eduonline-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-manage-web/eduonline-manage-web.iml" filepath="$PROJECT_DIR$/eduonline-manage-web/eduonline-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-parent/eduonline-parent.iml" filepath="$PROJECT_DIR$/eduonline-parent/eduonline-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduonline-payment/eduonline-payment.iml" filepath="$PROJECT_DIR$/eduonline-payment/eduonline-payment.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-service-util/eduonline-service-util.iml" filepath="$PROJECT_DIR$/eduonline-service-util/eduonline-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduonline-usermanage/eduonline-usermanage.iml" filepath="$PROJECT_DIR$/eduonline-usermanage/eduonline-usermanage.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-usermanage/eduonline-usermanage.iml" filepath="$PROJECT_DIR$/eduonline-usermanage/eduonline-usermanage.iml" />
       <module fileurl="file://$PROJECT_DIR$/eduonline-web-util/eduonline-web-util.iml" filepath="$PROJECT_DIR$/eduonline-web-util/eduonline-web-util.iml" />
     </modules>

@@ -12,6 +12,7 @@
         <module name="eduonline-interface" />
         <module name="eduonline-manage-service" />
         <module name="eduonline-manage-web" />
+        <module name="eduonline-payment" />
         <module name="eduonline-service-util" />
         <module name="eduonline-usermanage" />
         <module name="eduonline-web-util" />
@@ -25,6 +26,7 @@
       <module name="eduonline-manage-service" target="1.8" />
       <module name="eduonline-manage-web" target="1.8" />
       <module name="eduonline-parent" target="1.8" />
+      <module name="eduonline-payment" target="1.8" />
       <module name="eduonline-service-util" target="1.8" />
       <module name="eduonline-usermanage" target="1.8" />
       <module name="eduonline-web-util" target="1.8" />
